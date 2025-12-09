@@ -6,7 +6,7 @@ Sensory Safari is an expert-developed tool designed to identify potential sensor
 
 ## Live Website
 
-[Visit Sensory Safari](https://kaushikvada3.github.io/Sensory-Safari-Website/)
+[Visit Sensory Safari](https://anubhuthi.github.io/Sensory-Safari-Website/)
 
 ## Features
 
