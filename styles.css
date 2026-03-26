@@ -316,15 +316,15 @@ body {
 
 .research-subtitle {
     font-size: 1rem;
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(50, 50, 80, 0.85);
     margin-bottom: 1.5rem;
     font-style: italic;
 }
 
 .citation {
     font-size: 0.9rem;
-    color: rgba(255, 255, 255, 0.6);
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    color: rgba(50, 50, 80, 0.6);
+    border-top: 1px solid rgba(50, 50, 80, 0.15);
     padding-top: 1rem;
 }
 
